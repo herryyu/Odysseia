@@ -1,0 +1,5 @@
+/target
+/.idea
+/assets
+Cargo.lock
+.DS_Store
